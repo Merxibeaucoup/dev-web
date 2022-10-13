@@ -1,0 +1,22 @@
+{
+  "experiences": [
+    {
+      "title": "Residential Counselor",
+      "subtitle": "Bamsi",
+      "workType": "Full-time",
+      "workDescription": [
+        "Work with and help individuals with Acquired Brain Injury with their day to day activities."
+      ],
+      "dateText": "02/2021 – Present"
+    },
+    {
+      "title": "Fitness",
+      "subtitle": "Kingsbury Club",
+      "workType": "Full-time",
+      "workDescription": [
+        "oversee and maintian the equipments and fitness floor of the kingsbury club "
+      ],
+      "dateText": "02/2017 – present"
+    }
+  ]
+}

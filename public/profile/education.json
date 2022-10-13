@@ -1,0 +1,17 @@
+{
+  "education": [
+    {
+      "title": "Sep 2019 - Jun 2022",
+      "cardTitle": "B.Tech, Computer Science",
+      "cardSubtitle": "Rhode Island College, Providence",
+      "cardDetailedText": "GPA - 3.125",
+      "icon": {
+        "src": "images/education/lorem-ipsum.png"
+      }
+    },
+    {
+      "cardTitle": "High School",
+      "cardSubtitle": "St Johns Grammar, Accra"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "projects": [
+    {
+      "image": "images/projects/portfolio-poster.png",
+      "title": "Dev Portfolio",
+      "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/mayankagarwal09/dev-portfolio"
+        },
+        {
+          "text": "Live",
+          "href": "https://mayankagarwal.me"
+        }
+      ],
+      "tags": ["React", "Portfolio", "JavaScript", "HTML", "CSS"]
+    },
+    {
+      "title": "Image Steganography Encryption/Decryption",
+      "bodyText": "- A GUI App for Image Encryption and Decryption made in **Java Swing**.",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/Merxibeaucoup/CSCI402-Group-Project"
+        }
+      ],
+      "tags": ["java", "Swing", "Cryptography"]
+    }
+  ]
+}
