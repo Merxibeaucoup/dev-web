@@ -45,7 +45,7 @@
           "href": "https://scintillating-arithmetic-129574.netlify.app"
         }
       ],
-      "tags": ["java", "React", "Spring Boot", "PostgreSQL"]
+      "tags": ["java", "React", "Spring Boot", "PostgreSQL", "HTML", "CSS"]
     },
     {
       "image": "images/projects/blog.png",
@@ -57,7 +57,7 @@
           "href": "https://github.com/Merxibeaucoup/full-stack-blog"
         }
       ],
-      "tags": ["java", "React", "Spring Boot", "PostgreSQL"]
+      "tags": ["java", "React", "Spring Boot", "PostgreSQL", "HTML", "CSS"]
     },
     {
       "image": "images/projects/email.png",
@@ -69,7 +69,7 @@
           "href": "https://github.com/Merxibeaucoup/contact-email-task-scheduler"
         }
       ],
-      "tags": ["java", "React", "Spring Boot", "PostgreSQL"]
+      "tags": ["java", "React", "Spring Boot", "PostgreSQL", "HTML", "CSS"]
     },
     {
       "image": "images/projects/stripe.png",
@@ -81,7 +81,7 @@
           "href": "https://github.com/Merxibeaucoup/foundationApp"
         }
       ],
-      "tags": ["javaScript", "Node JS", "Express", "React"]
+      "tags": ["javaScript", "Node JS", "Express", "React", "HTML", "CSS"]
     }
   ]
 }
