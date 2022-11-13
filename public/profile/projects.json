@@ -1,9 +1,9 @@
 {
   "projects": [
     {
-      "image": "images/projects/portfolio-poster.png",
+      "image": "images/projects/me.png",
       "title": "My Portfolio website",
-      "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+      "bodyText": "-  Portfolio Website made with React\n - Has a dark Mode Support",
       "links": [
         {
           "text": "GitHub",
@@ -11,7 +11,7 @@
         },
         {
           "text": "Live",
-          "href": "https://mayankagarwal.me"
+          "href": "https://lustrous-cupcake-4365ce.netlify.app"
         }
       ],
       "tags": ["React", "Portfolio", "JavaScript", "HTML", "CSS"]
@@ -26,6 +26,62 @@
         }
       ],
       "tags": ["java", "Swing", "Cryptography"]
+    },
+    {
+      "image": "images/projects/doc.png",
+      "title": "Doctor Appointment Booker",
+      "bodyText": "- A Full stack project that allows a user to schedule appointments with a doctor made with **Spring Boot && React**.",
+      "links": [
+        {
+          "text": "Frontend GitHub",
+          "href": "https://github.com/Merxibeaucoup/doctor-frontend"
+        },
+        {
+          "text": "Backend GitHub",
+          "href": "https://github.com/Merxibeaucoup/doctor-backend"
+        },
+        {
+          "text": "Live",
+          "href": "https://scintillating-arithmetic-129574.netlify.app"
+        }
+      ],
+      "tags": ["java", "React", "Spring Boot", "PostgreSQL"]
+    },
+    {
+      "image": "images/projects/blog.png",
+      "title": "Blog App",
+      "bodyText": "- A Full stack Blog App built with **Spring Boot && React**.",
+      "links": [
+        {
+          "text": " GitHub",
+          "href": "https://github.com/Merxibeaucoup/full-stack-blog"
+        }
+      ],
+      "tags": ["java", "React", "Spring Boot", "PostgreSQL"]
+    },
+    {
+      "image": "images/projects/email.png",
+      "title": "Email Scheduler App",
+      "bodyText": "- A Full stack Contact Task Scheduling App built with **Spring Boot && React**. that automatically runs once a day and sends an email to all contacts with a birthday on that day.",
+      "links": [
+        {
+          "text": " GitHub",
+          "href": "https://github.com/Merxibeaucoup/contact-email-task-scheduler"
+        }
+      ],
+      "tags": ["java", "React", "Spring Boot", "PostgreSQL"]
+    },
+    {
+      "image": "images/projects/stripe.png",
+      "title": "Fund Raising App",
+      "bodyText": "- A Full stack Fund Raising App built with **Node Js(express) && React**. That allows a user to donate money , integrated with the stripe API",
+      "links": [
+        {
+          "text": " GitHub",
+          "href": "https://github.com/Merxibeaucoup/foundationApp"
+        }
+      ],
+      "tags": ["javaScript", "Node JS", "Express", "React"]
     }
   ]
 }
