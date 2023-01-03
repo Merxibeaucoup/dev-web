@@ -1,33 +1,6 @@
 {
   "projects": [
     {
-      "image": "images/projects/me.png",
-      "title": "My Portfolio website",
-      "bodyText": "-  Portfolio Website made with React\n - Has a dark Mode Support",
-      "links": [
-        {
-          "text": "GitHub",
-          "href": "https://github.com/Merxibeaucoup/dev-web"
-        },
-        {
-          "text": "Live",
-          "href": "https://lustrous-cupcake-4365ce.netlify.app"
-        }
-      ],
-      "tags": ["React", "Portfolio", "JavaScript", "HTML", "CSS"]
-    },
-    {
-      "title": "Image Steganography Encryption/Decryption",
-      "bodyText": "- A GUI App for Image Encryption and Decryption made in **Java Swing**.",
-      "links": [
-        {
-          "text": "GitHub",
-          "href": "https://github.com/Merxibeaucoup/CSCI402-Group-Project"
-        }
-      ],
-      "tags": ["java", "Swing", "Cryptography"]
-    },
-    {
       "image": "images/projects/doc.png",
       "title": "Doctor Appointment Booker",
       "bodyText": "- A Full stack project that allows a user to schedule appointments with a doctor made with **Spring Boot && React**.",
@@ -69,7 +42,7 @@
           "href": "https://github.com/Merxibeaucoup/contact-email-task-scheduler"
         }
       ],
-      "tags": ["java", "React", "Spring Boot", "PostgreSQL", "HTML", "CSS"]
+      "tags": ["java 8", "React", "Spring Boot", "PostgreSQL", "HTML", "CSS"]
     },
     {
       "image": "images/projects/stripe.png",
@@ -82,6 +55,50 @@
         }
       ],
       "tags": ["javaScript", "Node JS", "Express", "React", "HTML", "CSS"]
+    },
+    {
+      "image": "images/projects/news1.png",
+      "title": " Frontend Mentor News-homepage",
+      "bodyText": "- A junior Level FrontEnd Mentor Challenge ",
+      "links": [
+        {
+          "text": " GitHub",
+          "href": "https://github.com/Merxibeaucoup/Frontend_Mentor_News-homepage"
+        },
+        {
+          "text": "Live",
+          "href": "https://dazzling-sopapillas-ded3cb.netlify.app"
+        }
+      ],
+      "tags": ["javaScript", "React", "HTML", "CSS", "Sass"]
+    },
+    {
+      "image": "images/projects/fe1.jpg",
+      "title": " FRONTEND MENTOR SUNNYSIDE-AGENCY Home Page",
+      "bodyText": "- A junior Level FrontEnd Mentor Challenge ",
+
+      "links": [
+        {
+          "text": " GitHub",
+          "href": "https://github.com/Merxibeaucoup/FRONTEND-MENTOR-CHALLENGE-REACT-SCSS-SUNNYSIDE-AGENCY"
+        },
+        {
+          "text": "Live",
+          "href": "https://helpful-tarsier-ca8a45.netlify.app"
+        }
+      ],
+      "tags": ["javaScript", "React", "HTML", "CSS", "Sass"]
+    },
+    {
+      "title": "Image Steganography Encryption/Decryption",
+      "bodyText": "- A GUI App for Image Encryption and Decryption made in **Java Swing**.",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/Merxibeaucoup/CSCI402-Group-Project"
+        }
+      ],
+      "tags": ["java", "Swing", "Cryptography"]
     }
   ]
 }

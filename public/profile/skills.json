@@ -28,6 +28,10 @@
         {
           "icon": "images/skills/css3.svg",
           "title": "CSS"
+        },
+        {
+          "icon": "images/skills/mongo-db.png",
+          "title": "MongoDB"
         }
       ]
     },
@@ -56,8 +60,20 @@
           "title": "Git"
         },
         {
-          "icon": "images/skills/docker.png",
-          "title": "Docker"
+          "icon": "images/skills/sass.png",
+          "title": "Sass"
+        },
+        {
+          "icon": "images/skills/formik.png",
+          "title": "Formik"
+        },
+        {
+          "icon": "images/skills/mui.png",
+          "title": "Material UI"
+        },
+        {
+          "icon": "images/skills/redux.png",
+          "title": "Redux"
         }
       ]
     }
