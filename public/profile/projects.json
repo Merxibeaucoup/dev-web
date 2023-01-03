@@ -34,8 +34,8 @@
     },
     {
       "image": "images/projects/email.png",
-      "title": "Email Scheduler App",
-      "bodyText": "- A Full stack Contact Task Scheduling App built with **Spring Boot && React**. that automatically runs once a day and sends an email to all contacts with a birthday on that day.",
+      "title": "Cron Job Email Scheduler App",
+      "bodyText": "- A Full stack Contact App built with **Spring Boot && React**. that has a cron job , it automatically runs once a day and sends an email to all contacts with a birthday on that day.",
       "links": [
         {
           "text": " GitHub",
